@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 5px 15px; /* Set padding to 5px top and bottom, 15px left and right */
+    background-color: #f9f7cf; /* Set background color */
+    width: 480px; /* Set width to 480px */
+}
+
+header {
+    background-color: #f2dcbb; /* Set background color for header */
+    padding: 5px 15px; /* Set padding for header */
+}
+
+footer {
+    height: 100px;
+    background-color: #f2dcbb; /* Set background color for footer */
+    padding: 5px 15px;
+}
