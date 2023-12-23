@@ -4,6 +4,7 @@ This repository serves as a record of my journey in learning HTML and CSS. Here,
 
 ## Folder Structure
 - [Introduction-to-html-css](https://github.com/SimeonSavov/HTML-CSS?tab=readme-ov-file#introduction-to-html-and-css-lesson-1)
+- [Html-structure](https://github.com/SimeonSavov/HTML-CSS/blob/main/README.md#html-structure-lesson-2)
 
 
 ## Introduction to HTML and CSS (Lesson 1)
