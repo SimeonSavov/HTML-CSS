@@ -51,3 +51,33 @@ I applied custom styling to the Book Story page using an external CSS file. My a
 I enriched the World Cup News page with information about a historic FIFA World Cup qualifiers match and notable destinations. Incorporating custom styling enhanced the visual presentation of the content.
 
 As I progress in my learning journey, these foundational skills gained from completing these tasks will serve as a solid base for tackling more advanced web development concepts.
+
+## HTML Structure (Lesson 2)
+
+In the "HTML Structure" section, I explored fundamental concepts of HTML and CSS, building a strong foundation for web development.
+
+**Task 1: Navigation Bar Implementation**
+
+Created a navigation bar using HTML `<nav>` and `<ul>` tags. Applied CSS styling to achieve a clean and organized appearance.
+
+**Task 2: Page Content Structure**
+
+Structured a web page with multiple articles, each featuring a title, author, and content. Utilized HTML `<article>` and <section> tags for semantic structuring.
+
+**Task 3: Semantic Tags and Styling**
+
+Developed a web page promoting software development education. Incorporated semantic tags like `<header>`, `<main>`, and `<footer>`. Applied CSS styling for an appealing layout.
+
+**Task 4: Semantic Article Page Creation**
+
+Constructed an article page about apples using semantic HTML elements. Integrated CSS for styling, emphasizing readability and aesthetics.
+
+**Task 5: Simple Website Layout**
+
+Designed a simple website layout with a navigation bar, main content section, and footer. Applied CSS to enhance the visual presentation and create a cohesive design.
+
+**Task 6: Semantic Blog Layout**
+
+Structured a developer news blog with HTML semantic tags. Styled the layout using CSS, emphasizing readability and visual appeal.
+
+As I progress through these exercises, I'm gaining a comprehensive understanding of HTML and CSS, setting the stage for more advanced web development challenges.
