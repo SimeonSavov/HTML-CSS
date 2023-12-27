@@ -1,7 +1,7 @@
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+@import url("https://use.fontawesome.com/releases/v5.10.2/css/all.css");
 
 body{
-    font-family: 'proxima-nova', "Helvetica Neue", Arial, sans-serif;
+    font-family: proxima-nova, "Helvetica Neue", Arial, sans-serif;
 
 }
 
@@ -14,37 +14,38 @@ nav{
 }
 
 nav li{
+    list-style: none;
     line-height: 25px;
     margin-left: -15px;
 }
 
-nav a{
+nav li a{
     text-decoration: none;
     color: #c83025;
 }
 
-nav i{
+nav li i{
     width: 1.14em;
     padding-right: 0.28em;
 }
 
-button{
+p button{
     padding: 4px 12px;
     line-height: 20px;
     color: #ffffff;
-    border:1px solid rgba(0, 0, 0, 0.1);
+    border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
     cursor: pointer;
 }
 
-button.shopping{
+.shopping{
     background-color: #83a94c;
 }
 
-button.info{
+.info{
     background-color: #008ed0;
 }
 
-button.delete{
+.delete{
     background-color: #cc4036;
 }
 
