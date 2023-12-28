@@ -1,0 +1,38 @@
+html {
+    font-family: 'Helvetica', sans-serif;
+    color: rgb(51, 51, 51);
+}
+
+body{
+  background-color: rgb(238, 238, 238);
+  margin: 20px;
+  padding: 20px;
+  line-height: 1.5;
+}
+.head-info{
+  margin-bottom: 12px;
+}
+
+h1,
+h2{
+  font-size: 30px;
+  margin: -4px;
+}
+article{
+  display: inline-block;
+  width: 70%;
+}
+
+.main-info img{
+  width: 500px;
+}
+
+aside{
+  display: inline-block;
+  position: absolute;
+  width: 350px;
+}
+
+.foot-info{
+  margin-top: 40px;
+}
