@@ -1,27 +1,35 @@
-html{
-    font-family: Helvetica, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-}
 header{
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 body{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
     margin: 20px;
     padding: 30px;
 }
 
-table th{
-    background-color: lightgrey;
-    text-align: left;
+table{
+    border-collapse: collapse;
+    border: 1px solid darkgray;
+    table-layout: fixed;
 }
 
-table td{
-    width: 500px;
-    height: 32px;
-    border: 1px solid #ccc;
-    padding-left: 5px;
+table td,
+table th{
+    width: 600px;
+    padding: 4px 8px;
+    border: 1px solid darkgray;
+}
+
+table thead th{
+    text-align: left;
+    background-color: darkgray;
+}
+
+table tr:nth-child(odd){
+    background-color: lightgray;
 }
 
 blockquote{
@@ -30,6 +38,7 @@ blockquote{
     font-style: italic;
     font-size: 15px;
     padding-left: 15px;
+    padding: 8px;
 }
 
 blockquote p{
